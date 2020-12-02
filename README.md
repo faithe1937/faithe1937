@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 --!>
-- 🤔  I’m looking for help getting a full-stack developer job with longevity in mind. Eager to learn, contribute and add value to a team, organization. I want to create meaningful products and solve problems to help people thrive. I have a positive attitude and strong work ethic. <br/> <br/>
+- 🤔  I’m looking for help getting a full-stack developer job with longevity in mind. Eager to learn, contribute and add value to a team. I want to create meaningful products and solve problems to help people thrive. I have a positive attitude and strong work ethic. <br/> <br/>
 
 - :atom: I love working on React projects <br/> 
 - 🌱  I’m currently learning learning AWS and Python. <br/>
