@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 --!>
-🤔 I’m looking for help getting a full-stack developer job with longevity in mind. Eager to learn, contribute and add value to a team. I want to create meaningful products and solve problems to help people thrive. I have a positive attitude and strong work ethic. <br/> <br/>
+🤔 Eager to learn, contribute and add value to a team. I want to create meaningful products and solve problems to help people thrive. I have a positive attitude and strong work ethic. <br/> <br/>
 
 👯    I’m looking to collaborate on projects that help non-profits in Austin, TX!  <br/>
 :avocado:  I have a nutrient science background  <br/>
